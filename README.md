@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Omar Tarboush 👋</h1>
 <h3>AI Engineer · Software & Mobile Developer</h3>
-<p>📍 Syria &nbsp;·&nbsp; 📧 omar.tarboush@return-ly.com</p>
+<p>📍 Syria &nbsp;·&nbsp; 📧 omartarboush191@gmail.com</p>
 
 <br/>
 
@@ -126,13 +126,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ What I Build With
 
 <div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omartar123&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omartar123&layout=compact&theme=tokyonight&hide_border=true)
+| Mobile | Backend & AI | Tools |
+|:---:|:---:|:---:|
+| Flutter · Dart · GetX | Python · AI/ML | Firebase · Dio · GetStorage |
+| iOS · Android | REST APIs | Git · Figma |
 
 </div>
 
@@ -142,7 +143,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.tarboush@return-ly.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarboush191@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omartar123)
 
 </div>

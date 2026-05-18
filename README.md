@@ -146,8 +146,10 @@ Passionate software developer with extensive experience in mobile and web applic
       <b>Finance & Account Manager</b> &nbsp;
       <img src="https://img.shields.io/badge/My%20Project-3fb950?style=flat"/>
       <img src="https://img.shields.io/badge/Coming%20Soon-f0883e?style=flat"/><br/>
-      A personal project for managing user accounts and finances in one place. Clean interface with secure access control and organized account management.<br/><br/>
-      <em>Store links coming soon</em>
+      A personal finance app for tracking income, expenses, and wallets across multiple currencies. Supports dark/light mode, multi-user roles, and real-time balance updates.<br/><br/>
+      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-screen1.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-screen2.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-screen3.png" height="130" style="border-radius:8px"/>
     </td>
   </tr>
 

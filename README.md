@@ -139,7 +139,7 @@ Passionate software developer with extensive experience in mobile and web applic
   <!-- Account -->
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-icon.jpg" width="72" height="72" style="border-radius:16px; object-fit:contain;"/><br/>
+      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-icon.svg" width="72" height="72" style="border-radius:16px;"/><br/>
       <b>Account</b>
     </td>
     <td>

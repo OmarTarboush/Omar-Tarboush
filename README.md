@@ -139,7 +139,7 @@ Passionate software developer with extensive experience in mobile and web applic
   <!-- Account -->
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-icon.svg" width="72" height="72" style="border-radius:16px;"/><br/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-icon.svg" width="72" height="72" style="border-radius:16px;"/><br/>
       <b>Account</b>
     </td>
     <td>
@@ -147,9 +147,9 @@ Passionate software developer with extensive experience in mobile and web applic
       <img src="https://img.shields.io/badge/My%20Project-3fb950?style=flat"/>
       <img src="https://img.shields.io/badge/Coming%20Soon-f0883e?style=flat"/><br/>
       A personal finance app for tracking income, expenses, and wallets across multiple currencies. Supports dark/light mode, multi-user roles, and real-time balance updates.<br/><br/>
-      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-home.png" height="130" style="border-radius:8px"/>
-      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-screen2.png" height="130" style="border-radius:8px"/>
-      <img src="https://raw.githubusercontent.com/omartar123/omartar123/main/account-screen3.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-home.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-screen2.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-screen3.png" height="130" style="border-radius:8px"/>
     </td>
   </tr>
 
@@ -179,6 +179,6 @@ Passionate software developer with extensive experience in mobile and web applic
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarboush191@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarboush)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omartar123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarTarboush)
 
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Hi, I'm Omar Tarboush 👋</h1>
-<h3>AI Engineer · Software & Mobile Developer</h3>
-<p>📍 Syria &nbsp;·&nbsp; 📧 omartarboush191@gmail.com</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:02569B&height=220&section=header&text=Hi%2C%20I'm%20Omar%20Tarboush%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Software%20%26%20Mobile%20Developer&descSize=20&descAlignY=60&descColor=cce4ff)
+
+<p>📍 Syria &nbsp;·&nbsp; 📧 omartarboush191@gmail.com &nbsp;·&nbsp; 📞 +963 941 717 409</p>
 
 <br/>
 
@@ -10,11 +10,32 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-0D47A1?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Passionate software developer with extensive experience in mobile and web applications. Skilled in **Flutter**, **Firebase**, and **AI** projects, with hands-on experience managing full project lifecycles and delivering production-ready apps. Strong collaboration and leadership skills developed through freelance and professional work.
+
+- 🎓 BSc in Information Technology, Major in AI — Arab International University (2016–2021)
+- 🌍 Arabic (Native) · English (Good)
+- 🏗️ 4+ years building cross-platform mobile apps shipped to Play Store & App Store
+
+---
+
+## 💼 Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Oct 2025 – Present | Flutter Developer | **We Got Nerds** · Dubai, UAE |
+| Aug 2023 – Oct 2025 | Flutter Developer | **ANS Soft** · Abu Dhabi, UAE |
+| Sep 2023 – Sep 2024 | Flutter Developer & Instructor | **Seba School** · Damascus, Syria |
+| May 2023 – Aug 2023 | Flutter Developer | **Goma Plus** · Saudi Arabia |
 
 ---
 
@@ -122,18 +143,35 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/%F0%9F%91%A4-Account-1d6fc4?style=for-the-badge" width="72"/><br/>
+      <b>Account</b>
+    </td>
+    <td>
+      <b>User Accounts Manager</b> &nbsp;
+      <img src="https://img.shields.io/badge/My%20Project-3fb950?style=flat"/>
+      <img src="https://img.shields.io/badge/Coming%20Soon-f0883e?style=flat"/><br/>
+      A personal project for managing user accounts and profiles in one place. Clean interface with secure access control and organized account management.<br/><br/>
+      <em>Store links coming soon</em>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ What I Build With
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Mobile | Backend & AI | Tools |
+| Mobile | State & Networking | Backend & AI |
 |:---:|:---:|:---:|
-| Flutter · Dart · GetX | Python · AI/ML | Firebase · Dio · GetStorage |
-| iOS · Android | REST APIs | Git · Figma |
+| Flutter · Dart · iOS · Android | GetX · Riverpod · Dio · GraphQL | Python · AI/ML · Firebase |
+| **Testing** | **Database** | **Tools** |
+| Patrol · Mockito · Flutter Test | SQL · Firestore · GetStorage | Git · GitHub · GitLab · Figma |
+| **Integrations** | | |
+| Google Maps · Push Notifications · Deep Linking · In-App Purchases · Role-Based Access · Data Encryption | | |
 
 </div>
 
@@ -144,6 +182,9 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarboush191@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarboush)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omartar123)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0D47A1&height=100&section=footer)

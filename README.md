@@ -59,4 +59,4 @@ I'm always open to collaborating on impactful products, solving real problems, a
 
 Check out my full portfolio with all published apps, screenshots, and project details:
 
-[![Portfolio](https://img.shields.io/badge/omar--tarboush.github.io-Visit%20Portfolio-1d6fc4?style=for-the-badge&logo=github&logoColor=white)](https://omar-tarboush.github.io)
+[![Portfolio](https://img.shields.io/badge/omartarboush.github.io-Visit%20Portfolio-1d6fc4?style=for-the-badge&logo=github&logoColor=white)](https://omartarboush.github.io)

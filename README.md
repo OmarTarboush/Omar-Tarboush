@@ -1,32 +1,57 @@
-<div align="center">
+## 👨‍💻 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Tarboush+%F0%9F%91%8B;AI+Engineer+%7C+Mobile+Developer;Flutter+%7C+Firebase+%7C+GetX)](https://git.io/typing-svg)
+I'm a Mobile Developer with 4+ years of experience specializing in cross-platform applications using Flutter and Dart. I focus on clean architecture, smooth animations, and production-ready apps — with 6 apps shipped to both the Google Play Store and Apple App Store.
 
-<h3>AI Engineer · Software & Mobile Developer</h3>
+Along with mobile development, I work as an AI Engineer, building intelligent features that integrate machine learning, automation, and data-driven capabilities into real-world applications. I have hands-on experience with Python, Firebase, and REST/GraphQL APIs, enabling me to build complete end-to-end solutions.
 
-<p>📍 Syria &nbsp;·&nbsp; 📧 omartarboush191@gmail.com &nbsp;·&nbsp; 📞 +963 941 717 409</p>
+I'm currently building personal projects including **Account** — a multi-currency personal finance manager — and exploring advanced AI integrations in mobile apps. I care about clean code, great UX, and shipping things that actually work.
 
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
+I'm always open to collaborating on impactful products, solving real problems, and working with teams that value quality.
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Socials:
 
-Passionate software developer with extensive experience in mobile and web applications. Skilled in **Flutter**, **Firebase**, and **AI** projects, with hands-on experience managing full project lifecycles and delivering production-ready apps. Strong collaboration and leadership skills developed through freelance and professional work.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarboush)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarboush191@gmail.com)
 
-- 🎓 BSc in Information Technology, Major in AI — Arab International University (2016–2021)
-- 🌍 Arabic (Native) · English (Good)
-- 🏗️ 4+ years building cross-platform mobile apps shipped to Play Store & App Store
+---
+
+## 💻 Tech Stack:
+
+**Mobile:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**State Management & Networking:**
+
+![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Backend & AI:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & Storage:**
+
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GetStorage](https://img.shields.io/badge/GetStorage-8B0000?style=for-the-badge&logoColor=white)
+
+**Tools:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -139,7 +164,7 @@ Passionate software developer with extensive experience in mobile and web applic
   <!-- Account -->
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-icon.svg" width="72" height="72" style="border-radius:16px;"/><br/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/OmarTarboush/main/account-icon.svg" width="72" height="72" style="border-radius:16px;"/><br/>
       <b>Account</b>
     </td>
     <td>
@@ -147,38 +172,10 @@ Passionate software developer with extensive experience in mobile and web applic
       <img src="https://img.shields.io/badge/My%20Project-3fb950?style=flat"/>
       <img src="https://img.shields.io/badge/Coming%20Soon-f0883e?style=flat"/><br/>
       A personal finance app for tracking income, expenses, and wallets across multiple currencies. Supports dark/light mode, multi-user roles, and real-time balance updates.<br/><br/>
-      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-home.png" height="130" style="border-radius:8px"/>
-      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-screen2.png" height="130" style="border-radius:8px"/>
-      <img src="https://raw.githubusercontent.com/OmarTarboush/Omar-Tarboush/main/account-screen3.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/OmarTarboush/main/account-home.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/OmarTarboush/main/account-screen2.png" height="130" style="border-radius:8px"/>
+      <img src="https://raw.githubusercontent.com/OmarTarboush/OmarTarboush/main/account-screen3.png" height="130" style="border-radius:8px"/>
     </td>
   </tr>
 
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Mobile | State & Networking | Backend & AI |
-|:---:|:---:|:---:|
-| Flutter · Dart · iOS · Android | GetX · Riverpod · Dio · GraphQL | Python · AI/ML · Firebase |
-| **Testing** | **Database** | **Tools** |
-| Patrol · Mockito · Flutter Test | SQL · Firestore · GetStorage | Git · GitHub · GitLab · Figma |
-| **Integrations** | | |
-| Google Maps · Push Notifications · Deep Linking · In-App Purchases · Role-Based Access · Data Encryption | | |
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartarboush191@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarboush)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarTarboush)
-
-</div>
